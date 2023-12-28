@@ -1,0 +1,182 @@
+[
+  {
+    "Name": "TCS",
+    "Rating": 3.8,
+    "Reviews": "68.8k",
+    "Jobs": 588,
+    "Salary_reviews": "742.3k",
+    "Highly_rated": "Job Security, Work Life Balance",
+    "Poorly_rated": "Promotions / Appraisal, Salary & Benefits",
+    "Details": "IT Services & Consulting | 1 Lakh+ Employees | Public | 55 years old | Mumbai +317 more"
+  },
+  {
+    "Name": "Accenture",
+    "Rating": 4,
+    "Reviews": "43.6k",
+    "Jobs": "4.1k",
+    "Salary_reviews": "515.5k",
+    "Highly_rated": "Company Culture, Job Security, Skill Development / Learning",
+    "Poorly_rated": "NaN",
+    "Details": "IT Services & Consulting | 1 Lakh+ Employees | Public | 34 years old | Dublin +156 more"
+  },
+  {
+    "Name": "Cognizant",
+    "Rating": 3.9,
+    "Reviews": "39.1k",
+    "Jobs": 600,
+    "Salary_reviews": "498.2k",
+    "Highly_rated": "Skill Development / Learning",
+    "Poorly_rated": "NaN",
+    "Details": "IT Services & Consulting | 1 Lakh+ Employees | Forbes Global 2000 | 29 years old | Teaneck. New Jersey. +134 more"
+  },
+  {
+    "Name": "Wipro",
+    "Rating": 3.8,
+    "Reviews": "36.3k",
+    "Jobs": 391,
+    "Salary_reviews": "373.1k",
+    "Highly_rated": "Job Security",
+    "Poorly_rated": "NaN",
+    "Details": "IT Services & Consulting | 1 Lakh+ Employees | Public | 78 years old | Bangalore/Bengaluru +264 more"
+  },
+  {
+    "Name": "ICICI Bank",
+    "Rating": 4,
+    "Reviews": "31.5k",
+    "Jobs": 220,
+    "Salary_reviews": "137.3k",
+    "Highly_rated": "Job Security, Skill Development / Learning, Company Culture",
+    "Poorly_rated": "NaN",
+    "Details": "Banking | 1 Lakh+ Employees | Public | 29 years old | Mumbai +1232 more"
+  },
+  {
+    "Name": "HDFC Bank",
+    "Rating": 3.9,
+    "Reviews": "31.3k",
+    "Jobs": 559,
+    "Salary_reviews": "124.2k",
+    "Highly_rated": "Job Security, Skill Development / Learning",
+    "Poorly_rated": "NaN",
+    "Details": "Banking | 1 Lakh+ Employees | Public | 29 years old | Mumbai +1471 more"
+  },
+  {
+    "Name": "Infosys",
+    "Rating": 3.9,
+    "Reviews": "29.8k",
+    "Jobs": "1k",
+    "Salary_reviews": "414k",
+    "Highly_rated": "Job Security, Company Culture, Skill Development / Learning",
+    "Poorly_rated": "NaN",
+    "Details": "IT Services & Consulting | 1 Lakh+ Employees | Public | 42 years old | Bengaluru/Bangalore +156 more"
+  },
+  {
+    "Name": "Capgemini",
+    "Rating": 3.8,
+    "Reviews": "27.7k",
+    "Jobs": 855,
+    "Salary_reviews": "338.6k",
+    "Highly_rated": "Job Security, Work Life Balance, Skill Development / Learning",
+    "Poorly_rated": "NaN",
+    "Details": "IT Services & Consulting | 1 Lakh+ Employees | Public | 56 years old | Paris +108 more"
+  },
+  {
+    "Name": "Tech Mahindra",
+    "Rating": 3.7,
+    "Reviews": "25.9k",
+    "Jobs": "1.3k",
+    "Salary_reviews": "237k",
+    "Highly_rated": "NaN",
+    "Poorly_rated": "NaN",
+    "Details": "IT Services & Consulting | 1 Lakh+ Employees | Public | 37 years old | Pune +248 more"
+  },
+  {
+    "Name": "HCLTech",
+    "Rating": 3.7,
+    "Reviews": "25.5k",
+    "Jobs": 676,
+    "Salary_reviews": "255.6k",
+    "Highly_rated": "Job Security",
+    "Poorly_rated": "Promotions / Appraisal",
+    "Details": "IT Services & Consulting | 1 Lakh+ Employees | Public | 32 years old | Noida +163 more"
+  },
+  {
+    "Name": "Genpact",
+    "Rating": 3.9,
+    "Reviews": "24.7k",
+    "Jobs": 794,
+    "Salary_reviews": "177.6k",
+    "Highly_rated": "Job Security, Skill Development / Learning, Work Life Balance",
+    "Poorly_rated": "NaN",
+    "Details": "IT Services & Consulting | 1 Lakh+ Employees | Public | 26 years old | New York +93 more"
+  },
+  {
+    "Name": "Axis Bank",
+    "Rating": 3.8,
+    "Reviews": "20.7k",
+    "Jobs": 313,
+    "Salary_reviews": "96.5k",
+    "Highly_rated": "Job Security",
+    "Poorly_rated": "NaN",
+    "Details": "Banking | 50k-1 Lakh Employees | Public | 30 years old | Mumbai +1250 more"
+  },
+  {
+    "Name": "Concentrix Corporation",
+    "Rating": 3.9,
+    "Reviews": "20.5k",
+    "Jobs": 112,
+    "Salary_reviews": "101.4k",
+    "Highly_rated": "Job Security, Company Culture",
+    "Poorly_rated": "NaN",
+    "Details": "BPO | 50k-1 Lakh Employees | Public | 40 years old | Fremont +100 more"
+  },
+  {
+    "Name": "Amazon",
+    "Rating": 4.1,
+    "Reviews": "19.6k",
+    "Jobs": 667,
+    "Salary_reviews": "117.7k",
+    "Highly_rated": "Company Culture, Salary & Benefits, Work Life Balance",
+    "Poorly_rated": "NaN",
+    "Details": "Internet | 1 Lakh+ Employees | Public | 29 years old | Seattle +415 more"
+  },
+  {
+    "Name": "Teleperformance",
+    "Rating": 3.6,
+    "Reviews": "19.4k",
+    "Jobs": 274,
+    "Salary_reviews": "75.3k",
+    "Highly_rated": "NaN",
+    "Poorly_rated": "NaN",
+    "Details": "BPO | 50k-1 Lakh Employees | Forbes Global 2000 | 45 years old | Paris +158 more"
+  },
+  {
+    "Name": "Reliance Jio",
+    "Rating": 3.9,
+    "Reviews": "18.9k",
+    "Jobs": 157,
+    "Salary_reviews": "63.5k",
+    "Highly_rated": "Job Security, Skill Development / Learning",
+    "Poorly_rated": "NaN",
+    "Details": "Telecom | 50k-1 Lakh Employees | Public | 16 years old | Navi Mumbai +1114 more"
+  },
+  {
+    "Name": "IBM",
+    "Rating": 4.1,
+    "Reviews": "18.8k",
+    "Jobs": "1.7k",
+    "Salary_reviews": "196.8k",
+    "Highly_rated": "Work Life Balance, Job Security, Skill Development / Learning",
+    "Poorly_rated": "NaN",
+    "Details": "Software Product | 50k-1 Lakh Employees | Public | 112 years old | Armonk +140 more"
+  },
+  {
+    "Name": "Larsen & Toubro Limited",
+    "Rating": 4,
+    "Reviews": "17.6k",
+    "Jobs": 220,
+    "Salary_reviews": "77.5k",
+    "Highly_rated": "Job Security, Skill Development / Learning",
+    "Poorly_rated": "NaN",
+    "Details": "Engineering & Construction | 10k-50k Employees | Public | 85 years old | Mumbai +606 more"
+  }
+]
